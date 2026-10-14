@@ -1,0 +1,4 @@
+{
+  "//": "Marks the test folder as ES modules so Node does not re-parse each test file as CommonJS. The application itself does not set type:module.",
+  "type": "module"
+}
